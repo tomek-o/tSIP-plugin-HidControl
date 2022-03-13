@@ -13,7 +13,7 @@ FILETYPE VFT_APP
 		 {
 			 VALUE "CompanyName", "tomeko.net"
 			 VALUE "FileVersion", "1.0"
-			 VALUE "FileDescription", "EX-03 USB phone plugin"
+			 VALUE "FileDescription", "HidControl plugin for tSIP softphone"
 			 VALUE "InternalName", ""
 			 VALUE "LegalCopyright", ""
 			 VALUE "LegalTrademarks", ""
